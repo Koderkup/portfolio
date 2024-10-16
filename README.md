@@ -3,27 +3,19 @@
 This repository contains **starter code** for Next.js Creative Portfolio website built using Next.js and Three.js. <br />
 
 For Demo checkout following link👇: <br />
-[Nextjs Creative Portfolio Website Demo](https://next-js-creative-portfolio-website.vercel.app/) <br />
+[Nextjs Creative Portfolio Website Demo](https://github.com/Koderkup/portfolio) <br />
 
 Final Code👇: <br />
-➡ Link 💚: [Nextjs Creative Portfolio Website Final Code](https://github.com/codebucks27/Next.js-Creative-Portfolio-Website) <br />
-<!--- ➡ Link 2💚(If you want to support): [Nextjs Creative Portfolio Website Final Code](https://codebucks.gumroad.com/l/ypzlu) <br /> --->
+➡ Link 💚: [Nextjs Creative Portfolio Website Final Code](https://github.com/Koderkup/portfolio) <br />
 
-If you want to learn how to create it please follow below tutorial👇: <br />
-➡ Tutorial Link 💚: [Personal Portfolio Website with Next.js, Three.js & Tailwind CSS Tutorial](https://youtu.be/T5t46vuW8fo) 
-[![YouTube Video Views](https://img.shields.io/youtube/views/T5t46vuW8fo
-)](https://youtu.be/T5t46vuW8fo) <br />
 
-💚 Checkout my personal website [DevDreaming](https://devdreaming.com) <br />
-
----
 # ⭐DO NOT FORGET TO STAR THIS REPO⭐
 ---
 
 ## Images of The Portfolio Website:
 
 #### Home
-![Nextjs Creative Portfolio Website](https://github.com/Koderkup/portfolio/blob/main/website%20images/Home-desktop.png)
+![Portfolio Website](https://github.com/Koderkup/portfolio/blob/main/website%20images/Home-desktop.png)
 
 #### About
 ![Nextjs Creative Portfolio Website About Page](https://github.com/Koderkup/portfolio/blob/main/website%20images/About-desktop-full.png)
