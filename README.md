@@ -27,30 +27,28 @@ If you want to learn how to create it please follow below tutorial👇: <br />
 ## Images of The Portfolio Website:
 
 #### Home
-![Nextjs Creative Portfolio Website](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Home-desktop.png)
+![Nextjs Creative Portfolio Website](https://github.com/Koderkup/portfolio/blob/main/website%20images/Home-desktop.png)
 
 #### About
-![Nextjs Creative Portfolio Website About Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/About-desktop-full.png)
+![Nextjs Creative Portfolio Website About Page](https://github.com/Koderkup/portfolio/blob/main/website%20images/About-desktop-full.png)
 
 #### Projects
-![Next.js Creative Portfolio Website Projects Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Projects-desktop.png)
+![Next.js Creative Portfolio Website Projects Page](https://github.com/Koderkup/portfolio/blob/main/website%20images/Projects-desktop.png)
 
 #### Contact
-![Next.js Creative Portfolio Website Contact Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Contact-desktop.png)
+![Next.js Creative Portfolio Website Contact Page](https://github.com/Koderkup/portfolio/blob/main/website%20images/Contact-desktop.png)
 
 #### Mobile Version
-![Next.js Creative Portfolio Website Contact Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Home-mobile.png)
-![Next.js Creative Portfolio Website Contact Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/About-mobile.png)
-![Next.js Creative Portfolio Website Contact Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Projects-mobile.png)
-![Next.js Creative Portfolio Website Contact Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Contact-mobile.png)
+![Next.js Creative Portfolio Website Contact Page](https://github.com/Koderkup/portfolio/blob/main/website%20images/Home-mobile.png)
+![Next.js Creative Portfolio Website Contact Page](https://github.com/Koderkup/portfolio/blob/main/website%20images/About-mobile.png)
+![Next.js Creative Portfolio Website Contact Page](https://github.com/Koderkup/portfolio/blob/main/website%20images/Projects-mobile.png)
+![Next.js Creative Portfolio Website Contact Page](https://github.com/Koderkup/portfolio/blob/main/website%20images/Contact-mobile.png)
 
 ## Resources Used in This Project
 
 #### 3D Models
 
-- ["Tim Mckee - Boy Wizard"](https://skfb.ly/6YATu) by [elbertwithane is licensed under Creative Commons Attribution ](http://creativecommons.org/licenses/by/4.0/).
-- ["Stylized wizard hat"](https://skfb.ly/ozxOQ) by [Enkarra is licensed under Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
-- ["Wizard Staff"](https://skfb.ly/6QYZw) by [Toymancer Studio is licensed under Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
+- ["Tim Mckee - Boy Composer"](https://skfb.ly/6YATu) by [elbertwithane is licensed under Creative Commons Attribution ](http://creativecommons.org/licenses/by/4.0/).
 
 #### AI Images
 
