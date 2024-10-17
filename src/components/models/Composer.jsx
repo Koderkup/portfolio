@@ -189,7 +189,7 @@ const Composer = React.memo(function Composer(props) {
         scale={0.832}
       />
       <Text
-        position={[-0.88, 3, 10.5]}
+        position={[-1, 3, 10.5]}
         fontSize={2.2}
         color={"rgba(133, 111, 43, 0.5)"}
       >

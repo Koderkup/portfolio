@@ -6,14 +6,15 @@ Welcome to my portfolio website! This site showcases my work, skills, and projec
 
 - **Responsive Design**: The website is fully responsive, ensuring a smooth experience on all devices.
 - **Fast Performance**: Built with Next.js for optimized performance and SEO.
-- **Dynamic Content**: Easily update your projects and skills through a simple markdown format.
-- **Lightweight**: Minimalistic design focused on showcasing your work.
+- **Dynamic Content**: Easily update projects and skills through a simple markdown format.
+- **Lightweight**: Minimalistic design focused on showcasing my work.
 
 ## Technologies Used
 
 - **Next.js**: A React framework for server-side rendering and static site generation.
 - **React**: A JavaScript library for building user interfaces.
-- **CSS**: For styling the components and layout.
+- **Tailwind**: For styling the components and layout.
+- **Threejs**: For animation.
 
 ## Getting Started
 
