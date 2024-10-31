@@ -73,7 +73,7 @@ export const BtnList = [
   },
   {
     label: "Instagram",
-    link: "https://www.instagram.com/coderkup/",
+    link: "https://www.instagram.com/_kupet/",
     icon: "instagram",
     newTab: true,
   },
